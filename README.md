@@ -33,6 +33,7 @@ to develop hands-on Active Directory and Group Policy skills
 ![Active Directory Users](assets/ActiveDirectoryUsers.png)
 
 ![Server ping](assets/PingServer.png)
+
 ![Domain joined](assets/DomainJoined.png)
 
 # Activity 1:
@@ -47,6 +48,8 @@ to develop hands-on Active Directory and Group Policy skills
 
 
 ![Active Directory Tree](assets/ADtree.png)
+
 ![created multiple computer and users polcy](assets/policy_applied.png)
+
 ![Desktop wallpaper policy testing](assets/testpolicy.png)
 
