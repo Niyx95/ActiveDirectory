@@ -46,7 +46,7 @@ to develop hands-on Active Directory and Group Policy skills
 - prevent user to access control panel
 
 
-![Desktop wallpaper policy testing](assets/testpolicy.png)
 ![Active Directory Tree](assets/ADtree.png)
 ![created multiple computer and users polcy](assets/policy_applied.png)
+![Desktop wallpaper policy testing](assets/testpolicy.png)
 
