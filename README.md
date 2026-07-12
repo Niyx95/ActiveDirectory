@@ -1,8 +1,8 @@
 # Active Directory Project
 
 ## Overview
-Simulated enterprise Windows environment built in VirtualBox
-to develop hands-on Active Directory and Group Policy skills
+**Simulated enterprise Windows environment built in VirtualBox
+to develop hands-on Active Directory and Group Policy skills**
 
 ## Technologies
 - VirtualBox
@@ -38,13 +38,13 @@ to develop hands-on Active Directory and Group Policy skills
 
 # Activity 1:
 
-***create a organization and ploicyies and implement them***
-- created, design a multi-region Active Directory
-- moved my Win10 VM to environment
+***create a organization and implement plocyies on them***
+- created, designed a multi-region Active Directory
+- moved my Win10 VM to the environment
 - segregaded users, workstations and security groups
 - set up a password policy to enforce security
-- map network drives for users when they log in
-- prevent user to access control panel
+- control panel policy
+- account lockout policy
 
 
 ![Active Directory Tree](assets/ADtree.png)
@@ -53,3 +53,22 @@ to develop hands-on Active Directory and Group Policy skills
 
 ![Desktop wallpaper policy testing](assets/testpolicy.png)
 
+![account lockout](assets/account_lockout.png)
+
+
+# Activity 2:
+
+***set up file services and file sharing in AD***
+- create a shared folder with permissons
+- set NTFS and Shared Permissions to allow domain users access
+- login as domain user and share using mapping and network types
+- configure a GPO to automatically map Network drives for users
+- update the GPO on the client machine
+- install/configure File Server Resource Manager to create quota template to manage file storage
+
+
+![file manager](assets/file_manager.png)
+
+![permissions](assets/shared_permission.png)
+
+![drive network mapping](assets/drive-mapping.png)
