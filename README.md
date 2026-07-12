@@ -71,4 +71,5 @@ to develop hands-on Active Directory and Group Policy skills**
 
 ![permissions](assets/shared_permission.png)
 
-![drive network mapping](assets/drive-mapping.png)
+![drive network mapping](assets/drive_mapping.png)
+
